@@ -11,7 +11,7 @@ London · Supervisor: Dr Aidan Hogg
 > segments and the generated evaluation samples are too large for GitHub. The
 > complete supporting material is here:
 >
-> **https://drive.google.com/drive/folders/17MMbfv8v0xCPAZMw0d1zTvnxvQlkz4OB**
+> **https://drive.google.com/drive/folders/17MMbfv8v0xCPAZMw0d1zTvnxvQlkz4OB?usp=sharing**
 >
 > The notebook is written to run in **Google Colab** with that folder mounted
 > from Drive — see §5.
