@@ -2,8 +2,8 @@
 
 Supporting material for the MSc project *Domain Adaptation of MusicGen for
 Erhu Timbre Adaptation via LoRA Fine-tuning*
-You Wang · 250090532 · MSc Artificial Intelligence, Queen Mary University of
-London · Supervisor: Dr Aidan Hogg · bb24306@qmul.ac.uk
+You Wang · 250090532 · bb24306@qmul.ac.uk · MSc Artificial Intelligence, Queen Mary University of
+London · Supervisor: Dr Aidan Hogg 
 
 > ### Large files are on Google Drive
 >
