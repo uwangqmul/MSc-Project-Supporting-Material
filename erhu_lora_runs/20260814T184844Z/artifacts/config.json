@@ -1,0 +1,29 @@
+{
+  "model_name": "facebook/musicgen-small",
+  "project_root": "/content/drive/MyDrive/MScProject",
+  "source_folder": "originalmusic",
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "source_sr": 32000,
+  "segment_seconds": 30,
+  "minimum_tail_seconds": 20,
+  "crop_seconds": 8,
+  "prompt": "A clean acoustic solo played by erhu, a traditional Chinese two-stringed bowed instrument.",
+  "ranks": [
+    4,
+    8,
+    16
+  ],
+  "lora_dropout": 0.05,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.01,
+  "epochs": 10,
+  "patience": 2,
+  "gradient_accumulation_steps": 4,
+  "max_grad_norm": 1.0,
+  "warmup_ratio": 0.05,
+  "num_generated": 20,
+  "max_new_tokens": 400,
+  "temperature": 1.0
+}

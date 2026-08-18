@@ -1,0 +1,3 @@
+condition,rank,test_fad,selected_on_validation
+frozen_base,,6.902981626937752,True
+lora_rank_8,8.0,6.926657971524325,True

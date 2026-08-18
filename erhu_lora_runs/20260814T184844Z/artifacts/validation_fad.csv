@@ -1,0 +1,5 @@
+condition,rank,val_fad
+frozen_base,,16.64923425115317
+lora_rank_4,4.0,16.931478352416875
+lora_rank_8,8.0,15.128108309941968
+lora_rank_16,16.0,16.26122218985884

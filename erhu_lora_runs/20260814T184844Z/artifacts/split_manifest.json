@@ -1,0 +1,58 @@
+{
+  "train": {
+    "canonical_piece_ids": [
+      "qin_qiang_sui_xiang",
+      "the_third_erhu_rhapsody",
+      "la_luo_tuo",
+      "meng_feng",
+      "yimeng_shan_xiao_diao",
+      "yi_zhi_hua",
+      "xin_hun_bie",
+      "shan_cun_bian_le_yang",
+      "sai_ma",
+      "chang_cheng_sui_xiang",
+      "henan_xiao_qu",
+      "xian_ju_yin",
+      "zhu_ying_yao_hong"
+    ],
+    "files": [
+      "Erhu-1/Chang_Cheng_Sui_Xiang/Chang_Cheng_Sui_Xiang.wav",
+      "Erhu-1/Henan_Xiao_Qu-part1/Henan_Xiao_Qu-part1.wav",
+      "Erhu-1/Henan_Xiao_Qu-part2/Henan_Xiao_Qu-part2.wav",
+      "Erhu-1/Meng_Feng/Meng_Feng.wav",
+      "Erhu-1/Qin_Qiang_Sui_Xiang-part1/Qin_Qiang_Sui_Xiang-part1.wav",
+      "Erhu-1/Qin_Qiang_Sui_Xiang-part2/Qin_Qiang_Sui_Xiang-part2.wav",
+      "Erhu-1/Sai_Ma/Sai_Ma.wav",
+      "Erhu-1/The_Third_Erhu_Rhapsody-part1/The_Third_Erhu_Rhapsody-part1.wav",
+      "Erhu-1/The_Third_Erhu_Rhapsody-part2/The_Third_Erhu_Rhapsody-part2.wav",
+      "Erhu-1/Yi_Zhi_Hua/Yi_Zhi_Hua.wav",
+      "Erhu-2/La_Luo_Tuo/La_Luo_Tuo.wav",
+      "Erhu-2/Shan_Cun_Bian_Le_Yang/Shan_Cun_Bian_Le_Yang.wav",
+      "Erhu-2/Xin_Hun_Bie/Xin_Hun_Bie.wav",
+      "Erhu-2/Yimeng_Shan_Xiao_Diao/Yimeng_Shan_Xiao_Diao.wav",
+      "Erhu-2/Zhu_Ying_Yao_Hong/Zhu_Ying_Yao_Hong.wav",
+      "Erhu-3/Henan_Xiao_Qu/Henan_Xiao_Qu.wav",
+      "Erhu-3/Xian_Ju_Yin/Xian_Ju_Yin.wav"
+    ]
+  },
+  "val": {
+    "canonical_piece_ids": [
+      "jiangnan_chun_se"
+    ],
+    "files": [
+      "Erhu-1/Jiangnan_Chun_Se/Jiangnan_Chun_Se.wav"
+    ]
+  },
+  "test": {
+    "canonical_piece_ids": [
+      "xi_song_gong_liang",
+      "bei_ge",
+      "jiang_he_shui"
+    ],
+    "files": [
+      "Erhu-1/Jiang_He_Shui/Jiang_He_Shui.wav",
+      "Erhu-2/Bei_Ge/Bei_Ge.wav",
+      "Erhu-2/Xi_Song_Gong_Liang/Xi_Song_Gong_Liang.wav"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+rank,best_val_loss,adapter_path
+4,4.799215316772461,/content/drive/MyDrive/MScProject/erhu_lora_runs/20260814T184844Z/adapters/rank_4/best
+8,4.773547808329265,/content/drive/MyDrive/MScProject/erhu_lora_runs/20260814T184844Z/adapters/rank_8/best
+16,4.770168622334798,/content/drive/MyDrive/MScProject/erhu_lora_runs/20260814T184844Z/adapters/rank_16/best

@@ -1,0 +1,10 @@
+﻿CCOM-HuQin-v2.0.1-audios.zip
+originalmusic/
+*.wav
+*.mp3
+*.flac
+__pycache__/
+.ipynb_checkpoints/
+erhu_lora_runs/**/*.wav
+erhu_lora_runs/**/*.safetensors
+erhu_lora_runs/**/*.bin

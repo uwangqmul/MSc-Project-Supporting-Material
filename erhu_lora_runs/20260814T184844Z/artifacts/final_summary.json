@@ -1,0 +1,10 @@
+{
+  "selected_rank": 8,
+  "baseline_test_fad": 6.902981626937752,
+  "adapted_test_fad": 6.926657971524325,
+  "absolute_change": 0.02367634458657264,
+  "relative_change_percent": 0.3429872172074107,
+  "reference_split": "test",
+  "reference_crop_seconds": 8,
+  "generated_samples_per_condition": 20
+}
